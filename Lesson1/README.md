@@ -3,9 +3,9 @@ In this lesson you'll implement the build process for the Fortune Cookie app wit
 
 The following tasks will be supported:
 
-* Local web server
-* Auto reload the browser when file assets are saved
-* Optimize assets
+* Creation of local web server
+* Auto reload of the browser when file assets are saved
+* Optimization of assets
 
 #### Initialize NPM
 Intialize NPM by running the `npm init` command at the following directory: `Lesson1/begin`
